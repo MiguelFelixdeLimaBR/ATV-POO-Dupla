@@ -1,4 +1,4 @@
-export default class Politico {
+export abstract class Politico {
     nome: string;
     partido: string;
     esfera: string;
